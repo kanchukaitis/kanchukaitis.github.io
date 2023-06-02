@@ -1,1 +1,1 @@
-This repository hold the files for my professional lab website, https://kanchukaitis.github.io/
+This repository holds the files for my professional lab website, https://kanchukaitis.github.io/
