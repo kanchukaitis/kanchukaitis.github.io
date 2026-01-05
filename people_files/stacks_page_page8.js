@@ -23,6 +23,10 @@ stacks.stacks_in_143 = {};
 stacks.stacks_in_143 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;// Start Rinse stack each Javascript code$(document).ready(function(){	if (document.createElement("detect").style.webkitFilter != "") {		// non webkit browser to use canvas method.		if($("#stacks_in_143 img").parent().is("a")){			$("#stacks_in_143 img").parent().addClass("dooRinse");		}else{			$("#stacks_in_143 img").wrap("<span class='dooRinse'></span>");		}				$('#stacks_in_143 .dooRinse').RinseImage({		        hoverEffect : true,		        webworkerPath : "people_files/rinseAssets/",		        invertHoverEffect: true,		        // this option works only on the modern browsers ( on IE lower than 9 it remains always 1)		        intensity:1,		        speed: { 		            fadeIn: 300,		            fadeOut: 300		        }		});	}       });// End Rinse stack each Javascript code
 return stack;})(stacks.stacks_in_143);
+stacks.stacks_in_346 = {};
+stacks.stacks_in_346 = (function(stack) {
+var jQuery = stacks.jQuery;var $ = jQuery;// Start Rinse stack each Javascript code$(document).ready(function(){	if (document.createElement("detect").style.webkitFilter != "") {		// non webkit browser to use canvas method.		if($("#stacks_in_346 img").parent().is("a")){			$("#stacks_in_346 img").parent().addClass("dooRinse");		}else{			$("#stacks_in_346 img").wrap("<span class='dooRinse'></span>");		}				$('#stacks_in_346 .dooRinse').RinseImage({		        hoverEffect : true,		        webworkerPath : "people_files/rinseAssets/",		        invertHoverEffect: true,		        // this option works only on the modern browsers ( on IE lower than 9 it remains always 1)		        intensity:1,		        speed: { 		            fadeIn: 300,		            fadeOut: 300		        }		});	}       });// End Rinse stack each Javascript code
+return stack;})(stacks.stacks_in_346);
 stacks.stacks_in_235 = {};
 stacks.stacks_in_235 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;$(function(){
