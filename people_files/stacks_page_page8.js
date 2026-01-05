@@ -36,6 +36,10 @@ var jQuery = stacks.jQuery;var $ = jQuery;$(function(){
 });
 
 return stack;})(stacks.stacks_in_235);
+stacks.stacks_in_344 = {};
+stacks.stacks_in_344 = (function(stack) {
+var jQuery = stacks.jQuery;var $ = jQuery;// Start Rinse stack each Javascript code$(document).ready(function(){	if (document.createElement("detect").style.webkitFilter != "") {		// non webkit browser to use canvas method.		if($("#stacks_in_344 img").parent().is("a")){			$("#stacks_in_344 img").parent().addClass("dooRinse");		}else{			$("#stacks_in_344 img").wrap("<span class='dooRinse'></span>");		}				$('#stacks_in_344 .dooRinse').RinseImage({		        hoverEffect : true,		        webworkerPath : "people_files/rinseAssets/",		        invertHoverEffect: true,		        // this option works only on the modern browsers ( on IE lower than 9 it remains always 1)		        intensity:1,		        speed: { 		            fadeIn: 300,		            fadeOut: 300		        }		});	}       });// End Rinse stack each Javascript code
+return stack;})(stacks.stacks_in_344);
 stacks.stacks_in_258 = {};
 stacks.stacks_in_258 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;$(function(){
