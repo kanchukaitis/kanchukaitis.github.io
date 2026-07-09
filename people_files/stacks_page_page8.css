@@ -529,39 +529,6 @@
 	}
 }
 
-.spacerStack {
-	height: 40.00px;
-}
-
-#spacerStackstacks_in_312 {
-	height: 40.00px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@media print {
-	#spacerStackstacks_in_312 {
-		display: none !important;
-	}
-}
-
 #stacks_in_346 {
 	margin: 2px 2px 10px 2px;
 }
